@@ -1,0 +1,19 @@
+
+    Candidate: John Doe
+    Email: john.doe@example.com
+    Phone: +1-555-0199
+    
+    Education:
+    Bachelor of Science in Computer Science, State University, 2024
+    
+    Experience:
+    Software Engineering Intern at Tech Corp (2023 - 2024)
+    Developed REST APIs using Python, FastAPI, and PostgreSQL.
+    Built frontend features with React, TypeScript, and TailwindCSS.
+    
+    Skills:
+    Python, FastAPI, SQL, Docker, React, JavaScript, Git, AWS
+    
+    Projects:
+    E-Commerce Microservices Architecture with Redis and Docker.
+    

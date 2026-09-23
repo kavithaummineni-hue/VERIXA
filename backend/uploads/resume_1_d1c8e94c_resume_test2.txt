@@ -1,0 +1,7 @@
+Jane Doe
+jane@example.com
+Education: B.Tech Computer Science from State University
+Skills: Python, Java, Docker, Kubernetes, AWS, SQL, FastAPI
+Projects: Cloud microservices architecture
+Experience: Backend Engineer Internship
+Certifications: AWS Certified Developer

@@ -1,0 +1,14 @@
+Alex Johnson
+alex.johnson@example.com | +1-555-0199
+
+EDUCATION
+Bachelor of Technology in Computer Science, 2024
+
+SKILLS
+Python, Java, React, SQL, AWS, Docker, Git
+
+PROJECTS
+E-Commerce Application with Python and React
+
+EXPERIENCE
+Software Engineering Intern at ABC Corp (2023)
